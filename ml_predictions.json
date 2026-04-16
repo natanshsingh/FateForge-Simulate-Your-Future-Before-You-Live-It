@@ -1,0 +1,19 @@
+{
+  "input": {
+    "study_hours": 4,
+    "sleep_hours": 8,
+    "screen_time_hours": 2,
+    "workout_done": 1,
+    "mood_score": 8,
+    "deep_work_sessions": 3,
+    "streak_days": 10,
+    "goal_difficulty": 3,
+    "task_completion_rate": 0.9,
+    "stress_level": 3,
+    "breaks_taken": 4,
+    "weekend_recovery_score": 8
+  },
+  "consistency": 1,
+  "burnout": 0,
+  "growth": 78.18
+}

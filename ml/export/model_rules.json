@@ -1,0 +1,27 @@
+{
+  "consistency": {
+    "study_hours": 12,
+    "sleep_hours": 6,
+    "screen_time": -5,
+    "workout": 8,
+    "mood": 2,
+    "deep_work": 5,
+    "streak": 1.5
+  },
+  "burnout": {
+    "study_hours": 8,
+    "sleep_hours": -7,
+    "screen_time": 4,
+    "workout": -5,
+    "mood": -2,
+    "deep_work": -1
+  },
+  "growth": {
+    "study_hours": 10,
+    "deep_work": 7,
+    "streak": 2,
+    "workout": 4,
+    "mood": 2,
+    "screen_time": -3
+  }
+}

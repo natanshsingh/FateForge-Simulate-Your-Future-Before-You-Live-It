@@ -1,0 +1,123 @@
+Redesign this frontend into a PREMIUM dark-fantasy RPG dashboard.
+
+Theme:
+Make it feel like a high-end game UI inspired by knights, dungeons, castles, ancient runes, quest boards, and strategy RPGs.
+Do NOT make it futuristic or cyberpunk.
+It should feel immersive, premium, dark, and addictive to look at.
+
+Visual direction:
+- dark fantasy aesthetic
+- black, charcoal, deep brown, crimson, gold, silver, ember orange palette
+- premium textures inspired by leather, stone, metal, parchment, candlelight, and ancient magical runes
+- glowing gold highlights
+- elegant serif + clean UI font pairing
+- polished AAA-game style UI
+- dramatic lighting and shadows
+- subtle fog/smoke/embers particles in background
+- medieval/fantasy icons
+- animated hover states
+- premium depth and layering
+
+Core concept:
+The user is a knight/hero.
+Their life habits are quests.
+Consistency is armor/discipline.
+Growth is XP / level progression.
+Burnout is corruption / danger / fatigue meter.
+Weekly report is a kingdom report / quest log.
+The future simulator is an oracle chamber / prophecy system.
+Compare mode is a duel / two-path battle.
+AI explanation is a mystical advisor / dungeon oracle.
+
+Mandatory layout:
+1. Hero Banner / Character Panel
+   - title: Life Simulator OS
+   - subtitle: “Forge your future before you live it.”
+   - show player level, XP, streak, rank, title badge
+   - add a premium knight-like profile card
+   - make this area cinematic and strong
+
+2. Main Stats Section
+   - Consistency = Discipline meter
+   - Burnout = Corruption/Fatigue meter
+   - Growth = XP progress / Ascension meter
+   - show these as premium animated bars, circular meters, or fantasy gauges
+   - each stat should feel alive and game-like
+
+3. Quest Input Panel
+   - study, sleep, screen time, workout, mood, deep work, streak
+   - style inputs as fantasy controls / enchanted scroll / command board
+   - use premium sliders, steppers, knobs, or ornate number controls
+   - must still remain usable and clean
+
+4. Oracle / Prophecy Simulator
+   - scenario input should feel like entering a prophecy or mission
+   - show Best Case, Most Likely, Worst Case, Confidence, Risk, Next Step
+   - design this like a prophecy chamber / oracle altar / mission board
+   - make result cards dramatic and visually rich
+
+5. Future Progress Section
+   - Day 7, Day 30, Day 90
+   - make it feel like a dungeon path / campaign journey / kingdom map
+   - use interactive progression nodes, milestones, or fantasy chart design
+   - include subtle animations
+
+6. Compare Mode
+   - make this feel like a duel between two life paths
+   - Option A vs Option B
+   - visually show which path wins
+   - premium versus layout with battle-card styling
+
+7. Weekly Report
+   - style as a quest log / kingdom report / war council summary
+   - summary, advice, main focus
+   - add premium fantasy badges like:
+     - Iron Discipline
+     - Flame of Focus
+     - Recovery Needed
+     - Streak Keeper
+     - Arcane Momentum
+
+8. AI Guide Panel
+   - show RunAnywhere AI explanation as a dungeon oracle / royal advisor / mystical guide
+   - should feel magical, ancient, and premium
+   - hologram sci-fi is NOT allowed
+
+3D / interactive requirements:
+- 3D feeling is mandatory
+- add subtle 3D depth, parallax, layered cards, floating elements, hover tilt, and animated shadows
+- include at least one visually impressive animated centerpiece
+- use tasteful motion, not cheap effects
+- the page should feel alive
+- interactive elements should react on hover and focus
+- add subtle particle movement like embers, dust, smoke, or magical sparkles
+- create depth using layered backgrounds and panels
+- if possible, add a softly animated 3D knight crest, sword emblem, shield, or dungeon portal hero object
+- do not overdo animation to the point where it hurts usability
+
+Premium requirements:
+- must look expensive and polished
+- must feel like a real game UI
+- avoid childish visuals
+- avoid clutter
+- avoid cartoon look
+- focus on premium composition, detail, spacing, hierarchy, textures, and motion
+- it should look like something people cannot stop staring at
+
+Important constraints:
+- preserve all current React logic and functionality
+- do not break imports, data flow, ML logic, or AI explanation logic
+- redesign the UI only
+- keep code organized and reusable
+- split into components if needed
+- maintain responsiveness
+
+Technical preferences:
+- use React-friendly structure
+- use CSS modules, styled sections, or clean component-based structure
+- add tasteful animations using CSS or lightweight animation libraries
+- if adding 3D feel, prefer lightweight solutions that run smoothly in browser
+- prioritize performance and polish
+
+Final goal:
+Turn the app into a premium dark-fantasy interactive RPG dashboard that feels like a real game interface, while still functioning as a life simulator app.

@@ -1,0 +1,98 @@
+Build a futuristic life-RPG frontend for a project called “Life Simulator OS”.
+
+Goal:
+Make the app feel like a game, not a normal dashboard. The user should feel like they are playing their life as a strategy/RPG game.
+
+Design style:
+- dark sci-fi game interface
+- neon blue, purple, cyan, and green highlights
+- glassmorphism cards
+- glowing borders and soft shadows
+- premium polished look
+- smooth hover animations
+- clean spacing and strong visual hierarchy
+- fully responsive
+
+Main concept:
+The user is the player.
+Their habits are quests.
+Consistency is XP.
+Growth is level progress.
+Burnout is a danger meter.
+Weekly insights are mission reports.
+Future simulation is like predicting the next stage of the game.
+
+Page structure:
+1. Hero / Player Panel
+   - title: Life Simulator OS
+   - subtitle: “Most apps track your life. This one simulates your future.”
+   - show player level, XP, streak, rank, and status badge
+   - add a glowing avatar/profile panel
+
+2. Stats Dashboard
+   - show Consistency, Burnout, and Growth as animated progress bars / meters
+   - use strong gaming visuals
+   - burnout should look like a danger gauge
+   - growth should look like XP progress
+   - consistency should look like stability/focus meter
+
+3. Mission Input Panel
+   - inputs for study hours, sleep hours, screen time, workout, mood, deep work, streak
+   - styled like game controls or terminal inputs
+   - futuristic sliders, steppers, or number controls
+
+4. What-If Simulator
+   - make this look like a mission terminal / prediction engine
+   - scenario input box
+   - show Best Case, Most Likely, Worst Case, Confidence, Risk, Next Step
+   - design it like a future forecast console
+
+5. Future Timeline / Progress Graph
+   - show Day 7, Day 30, Day 90 progression
+   - use bars, neon line chart, or progression nodes
+   - look like a campaign map or level progression system
+
+6. Compare Mode
+   - turn this into a versus battle panel
+   - Option A vs Option B
+   - compare two lifestyles visually
+   - highlight the winning option like a game matchup
+
+7. Weekly AI Report
+   - style as a mission summary / commander report
+   - show summary, advice, main focus
+   - add badges like “Focus Monk”, “Streak Master”, “Recovery Needed”, etc.
+
+8. AI Guide Panel
+   - display RunAnywhere AI Explanation as an in-game AI guide / mentor
+   - make it look like an assistant terminal or hologram panel
+
+Visual elements to include:
+- neon progress bars
+- badges
+- rank cards
+- glowing buttons
+- futuristic panels
+- subtle particle/grid background
+- section icons
+- card hover effects
+- animated stat changes
+- premium modern typography
+
+Important constraints:
+- keep existing React logic and imports working
+- do not break backend/frontend connections
+- keep current functionality intact
+- only redesign the UI and structure
+- keep it production-clean and organized
+- split into reusable React components if helpful
+
+Tone:
+- futuristic
+- strategic
+- motivating
+- immersive
+- clean, not childish
+
+Output:
+Generate a complete polished frontend with a strong game-like structure, while preserving all existing app functionality.

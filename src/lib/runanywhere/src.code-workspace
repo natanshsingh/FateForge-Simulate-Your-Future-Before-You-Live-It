@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../.."
+		},
+		{
+			"name": "Life_os",
+			"path": "../../../../Life_os"
+		},
+		{
+			"name": "attached_assets",
+			"path": "../../../attached_assets"
+		},
+		{
+			"name": "node_modules",
+			"path": "../../../node_modules"
+		}
+	],
+	"settings": {}
+}
