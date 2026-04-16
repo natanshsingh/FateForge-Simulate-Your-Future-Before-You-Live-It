@@ -149,3 +149,52 @@ Visual projection for:
 ```bash
 git clone https://github.com/natanshsingh/FateForge-Simulate-Your-Future-Before-You-Live-It
 cd FateForge-Simulate-Your-Future-Before-You-Live-It
+
+# INSTALL
+npm install
+
+#Add API KEY
+Create .env file:
+OPENAI_API_KEY=your_api_key_here
+
+#Run Backend
+node server.js
+
+# Run Frontend
+npm run dev
+
+### 🎯 Use Case Scenarios
+📚 Student
+“What if I study 6 hours daily but sleep only 5 hours?”
+→ Sees burnout risk + lower long-term growth
+
+💼 Builder
+“What if I go all-in on a startup for 90 days?”
+→ Gets realistic execution + risk breakdown
+
+⚖️ Decision Maker
+Compare:
+Balanced life vs extreme grind
+→ Understand which path wins
+
+
+
+###Why This Project Matters
+Most apps:
+Track habits ❌
+Give generic advice ❌
+
+
+FateForge:
+Simulates consequences ✅
+Forces realism ✅
+Guides execution ✅
+
+
+👉 It shifts thinking from:
+“What should I do?” → “What will actually happen?”
+
+
+
+
+
