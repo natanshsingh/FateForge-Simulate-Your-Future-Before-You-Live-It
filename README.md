@@ -194,6 +194,16 @@ Guides execution ✅
 👉 It shifts thinking from:
 “What should I do?” → “What will actually happen?”
 
+<img width="810" height="485" alt="Screenshot 2026-05-06 at 5 53 02 PM" src="https://github.com/user-attachments/assets/98c7fa63-092d-4a5f-903c-4e4c8d1d5218" />
+<img width="804" height="418" alt="Screenshot 2026-05-06 at 5 52 33 PM" src="https://github.com/user-attachments/assets/2ba810cc-4b1f-49bc-9639-0988e276d326" />
+<img width="808" height="567" alt="Screenshot 2026-05-06 at 5 50 58 PM" src="https://github.com/user-attachments/assets/05420fa2-b225-4871-97d7-03009ba46853" /><img width="818" height="547" alt="Screenshot 2026-05-06 at 5 55 34 PM" src="https://github.com/user-attachments/assets/15e300fb-f248-49dd-9463-135761dda2cc" />
+<img width="814" height="553" alt="Screenshot 2026-05-06 at 5 55 05 PM" src="https://github.com/user-attachments/assets/ef3127ef-5143-475f-adcd-54af25102c73" />
+<img width="818" height="557" alt="Screenshot 2026-05-06 at 5 54 40 PM" src="https://github.com/user-attachments/assets/1bb64a34-8603-409b-ab34-d9c356f1e5b5" />
+<img width="819" height="551" alt="Screenshot 2026-05-06 at 5 54 10 PM" src="https://github.com/user-attachments/assets/5c7acdb5-b9f2-407c-a9e4-bdf7a7323a23" />
+<img width="813" height="576" alt="Screenshot 2026-05-06 at 5 53 41 PM" src="https://github.com/user-attachments/assets/c195fb57-ab9a-4fca-a582-39093f5e538c" />
+
+
+
 
 
 
